@@ -20,6 +20,6 @@ module.exports = {
     	// 输出文件目录
     	outputFolderName: 'dist',
     	// 资源路径
-    	publicPath: '/'
+    	publicPath: './'
     }
 }
